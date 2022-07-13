@@ -7,14 +7,35 @@
   padding: 5px;
 }
 .cuadro_sof {
+  width: 90%;
   background-color: darkseagreen;
   padding: 5px;
   margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
   border: 3px solid blue;
   border-radius: 5px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .imag_sof {
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cuadro_har {
+  width: 90%;
+  background-color: rgb(144, 144, 230);
+  padding: 5px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid green;
+  border-radius: 5px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.imag_har {
   width: 300px;
   display: block;
   margin-left: auto;
